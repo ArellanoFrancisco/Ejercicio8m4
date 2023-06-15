@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio Individual 8</string>
+    <string name="button1">Siguiente actividad</string>
+    <string name="button2">Cerrar app</string>
+    <string name="button3">Ir a la página web</string>
+    <string name="button4">Actividad previa</string>
+</resources>

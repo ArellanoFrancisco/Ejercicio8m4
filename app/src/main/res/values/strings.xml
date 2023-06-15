@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio Individual 8</string>
+    <string name="button1">Next Activity</string>
+    <string name="button2">Close app</string>
+    <string name="button3">Go to Webpage</string>
+    <string name="button4">Previous Activity</string>
+</resources>
